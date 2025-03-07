@@ -35,3 +35,13 @@ int main()
 }
 
 
+// Questions of vector.
+// Q1. v1={1, 2, 3}, v2={3, 4, 5} o/p= {3, 7, 9}
+
+// Q2 Same as upper but vector size is different.
+// v1={1, 2, 3}, v2={5, 6, 7, 8}, o/p={5, 7, 3, 7}
+
+// Q3 v1={1, 2, 3},sum of v1=1+2+3,  v2={3, 4, 5} sum of v2=3+4+5
+// print the greater one or equal.
+
+// Q4 v={4, 1, 2, 5, 1, 2, 4} print unique values in ascending order.
